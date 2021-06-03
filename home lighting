@@ -1,0 +1,1586 @@
+<!DOCTYPE html>
+<html lang="en" class="unscroll">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>index</title>
+    <!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	 <!-- Icon Font CSS -->
+    <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="https://kit-pro.fontawesome.com/releases/latest/css/pro.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/cryptocurrency-icons.css">
+	
+	<!-- google font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+	
+<link rel="stylesheet" href="css/main.css">
+<link href="css/style-icons.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+<!-- Style Sheet -->
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+<!-- start note div -->
+<div class="clearfix note">
+	<h1>If you want to order a larger quantity than the available stock, please contact our customer service<b>0598285470</b> <span class="lnr lnr-cross" id="close"></span></h1>
+</div>
+<!-- end note div -->
+
+
+<!-- start top-bar div -->
+<div class="clearfix top-bar">
+	<div class="container">
+		<div class="clearfix hidden-xs hidden-sm">
+		<div class="col-md-4">
+			<p>Free shipping for orders over 500 SAR</p>
+		</div>
+		<div class="col-md-2 col-md-offset-5 p0">
+			<ul class="social-lang">
+				<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+				<li><a href="#"><i class="fab fa-snapchat-ghost"></i></a></li>
+				<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+				
+			</ul>
+		</div>
+		<div class="col-md-1">
+			<div class="dropdown lang">
+  <button class="btn btn-secondary dropdown-toggle lang-btn " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    english<i class="fal fa-angle-down"></i>
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">arabic</a>
+    <hr>
+    <a class="dropdown-item" href="#">frinsh</a>
+    <hr>
+    <a class="dropdown-item" href="#">spanish</a>
+  </div>
+</div>
+		</div>
+	</div>
+<div class="clearfix hidden-lg hidden-md">
+	<div class="col-xs-6">
+		<ul class="social-lang">
+				<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+				<li><a href="#"><i class="fab fa-snapchat-ghost"></i></a></li>
+				<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+				
+			</ul>
+	</div>
+	<div class="col-xs-6">
+		<div class="dropdown lang">
+  <button class="btn btn-secondary dropdown-toggle lang-btn " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    english<i class="fal fa-angle-down"></i>
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">arabic</a>
+    <hr>
+    <a class="dropdown-item" href="#">frinsh</a>
+    <hr>
+    <a class="dropdown-item" href="#">spanish</a>
+  </div>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+
+<!-- end top-bar div -->
+
+
+<!-- start menu part -->
+<section class="navigation">
+  <div class="container position">
+    <div class="brand">
+      <a href="#!"><img src="images/logo.png" alt="logo"></a>
+    </div>
+    <nav>
+      <div class="nav-mobile"><a id="navbar-toggle" href="#!"><span></span></a></div>
+      <ul class="nav-list">
+        <li>
+          <a href="#!">home</a>
+        </li>
+       
+        <li>
+          <a href="#!">products <i class="fal fa-angle-down hidden-xs hidden-sm"></i><i class="fal fa-angle-right hidden-lg hidden-md"></i></a>
+          <ul class="navbar-dropdown">
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">all products</a>
+            </li>
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">indoor lighting</a>
+ 
+            </li>
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">outdoor lighting</a>
+            </li>
+             <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">keys & plugs</a>
+            </li>
+             <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">smart home</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#!">new arrivals</a>
+        </li>
+        <li>
+          <a href="#!">specials</a>
+        </li>
+        <li>
+          <a href="#!">more<i class="fal fa-angle-down hidden-xs hidden-sm"></i><i class="fal fa-angle-right hidden-lg hidden-md"></i></a>
+      <ul class="navbar-dropdown">
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">all products</a>
+            </li>
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">indoor lighting</a>
+            </li>
+            <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">outdoor lighting</a>
+            </li>
+             <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">keys & plugs</a>
+            </li>
+             <li>
+              <a href="#!"><img src="images/lamp.png" alt="dropdown list image">smart home</a>
+            </li>
+          </ul>
+        </li>
+        
+      </ul>
+    </nav>
+    <ul class="search-bar-list">
+    	<li>
+    	<div id="searchbar" class="collapsed">
+   <div id="search-box">
+     <div id="sliding-panel-outer">       
+      <div id="sliding-panel-inner">
+      <input type="text" id="search-input" />
+      <button id="search-submit">Search</button>
+      </div><!--#sliding-panel-inner-->
+     </div><!--#sliding-panel-outer-->
+     
+      <div class="search-label">
+       <i class="fal fa-search hand"></i>
+        <i class="fa fa-times hand"></i>
+      </div>
+   </div><!--#search-box-->
+</div><!--#searchbar-->
+</li>
+    	<li><a href="#"><span class="lnr lnr-user"></span></a></li>
+    	<li class="hidden-xs hidden-sm"><a href="#"><span class="lnr lnr-heart "></span></a></li>
+    	<li><a href="#"><span class="lnr lnr-cart cart"><p>7</p></span></a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- end menu part -->
+
+
+
+<!-- start slider div -->
+<div class="clearfix hidden-xs hidden-sm">
+ <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:350px;right:0;overflow:hidden;visibility:hidden;">
+      
+      
+        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:350px;overflow:hidden;">
+            <div class="slider-img" >
+                <img data-u="image" src="images/slider.png" alt="slider image" />
+                <div class="content">
+                	<h1>Exclusively at MHL</h1>
+                	<p>Entire brands, individual designs and custom finishes
+you'll only find at MHL</p>
+<a href="#">shop now</a>
+                </div>
+            </div>
+            <div class="slider-img" >
+                <img data-u="image" src="images/slider.png" alt="slider image" />
+                <div class="content">
+                	<h1>Exclusively at MHL</h1>
+                	<p>Entire brands, individual designs and custom finishes
+you'll only find at MHL</p>
+<a href="#">shop now</a>
+                </div>
+            </div>
+            <div class="slider-img" >
+                <img data-u="image" src="images/slider.png" alt="slider image" />
+                <div class="content">
+                	<h1>Exclusively at MHL</h1>
+                	<p>Entire brands, individual designs and custom finishes
+you'll only find at MHL</p>
+<a href="#">shop now</a>
+                </div>
+            </div>
+            <div class="slider-img" >
+                <img data-u="image" src="images/slider.png" alt="slider image" />
+                <div class="content">
+                	<h1>Exclusively at MHL</h1>
+                	<p>Entire brands, individual designs and custom finishes
+you'll only find at MHL</p>
+<a href="#">shop now</a>
+                </div>
+            </div>
+        
+        </div><a data-scale="0" href="https://www.jssor.com" style="display:none;position:absolute;">slider html</a>
+        <!-- Bullet Navigator -->
+        <div data-u="navigator" class="jssorb031" style="position:absolute;bottom:16px;right:16px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+            <div data-u="prototype" class="i" style="width:13px;height:13px;">
+                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                   <rect class="b" x="0" y="0" width="60%" height="60%"/>
+                </svg>
+            </div>
+        </div>
+        <!-- Arrow Navigator -->
+        <div data-u="arrowleft" class="jssora051" style="left:-4px;
+    width: 30px;
+    height: 30px;
+    background: #575856;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+            <svg viewbox="0 0 16000 16000" style="position:absolute;top:7px;left:0;width:30px;height:17px;">
+                <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+            </svg>
+        </div>
+        <div data-u="arrowright" class="jssora051" style="    right: 0;
+    width: 30px;
+    height: 30px;
+    background: #575856;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+            <svg viewbox="0 0 16000 16000" style="position:absolute;top:7px;right:0;width: 30px;
+    height: 17px;">
+                <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+            </svg>
+        </div>
+    </div>
+
+</div>
+<!-- end slider div -->
+
+
+<!-- start offers div -->
+<div class="clearfix offers hidden-xs hidden-sm">
+	<img src="images/offers.png" alt="offers image">
+	<div class="cover">
+		<p>up to 30%</p>
+		<h1>new year offers</h1>
+		<a href="#">shop now</a>
+	</div>
+</div>
+
+<!-- end offers div -->
+
+
+<!-- start blocks div -->
+<div class="container hidden-xs hidden-sm">
+	<div class="clearfix">
+		<div class="col-md-6">
+			<div class="block">
+				<img src="images/block-1.png" alt="block image">
+				<div class="cover-2">
+					<a href="#">indoor lighting</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="block">
+				<img src="images/block-2.png" alt="block image">
+				<div class="cover-2">
+					<a href="#">outdoor lighting</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="clearfix">
+		<div class="col-md-6">
+			<div class="block">
+				<img src="images/block-3.png" alt="block image">
+				<div class="cover-2">
+					<a href="#">keys & plugs</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="block">
+				<img src="images/block-4.png" alt="block image">
+				<div class="cover-2">
+					<a href="#">smart home</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<div class="clearfix hidden-lg hidden-md">
+	<div class="block">
+				<img class="block-1" src="images/block-1-mob.png" alt="block image">
+				
+			</div>
+</div>
+
+<div class="clearfix hidden-lg hidden-md">
+	<div class="block">
+				<img class="block-2" src="images/block-3.png" alt="block image">
+				<div class="cover-2">
+					<a href="#">keys & plugs</a>
+				</div>
+			</div>
+</div>
+
+
+<!-- end blocks div -->
+
+
+<!-- start new-arr div -->
+<div class="clearfix new-arr">
+	<h1>new arrivals</h1>
+<div class="container">
+	<!-- Elastislide Carousel -->
+				<ul id="carousel" class="elastislide-list">
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				</ul>
+				<!-- End Elastislide Carousel -->
+</div>
+</div>
+
+
+<!-- end new-arr div -->
+
+
+
+<!-- start offers div -->
+<div class="clearfix offers">
+	<img src="images/offer-2.png" alt="offers image">
+	<div class="cover-3">
+		<p>BY MHL</p>
+		<h1>selected lightings</h1>
+		<a href="#">shop now</a>
+	</div>
+</div>
+
+<!-- end offers div -->
+
+<!-- start best-seller div -->
+<div class="clearfix new-arr">
+	<h1>bestsellers</h1>
+<div class="container">
+	<!-- Elastislide Carousel -->
+				<ul id="carousel-2" class="elastislide-list">
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				</ul>
+				<!-- End Elastislide Carousel -->
+</div>
+</div>
+
+
+<!-- end best-seller div -->
+
+
+<!-- start package div -->
+<div class="clearfix new-arr">
+	<h1 class="mt0">package wholesale</h1>
+<div class="container">
+	<!-- Elastislide Carousel -->
+				<ul id="carousel-3" class="elastislide-list">
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-2.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-3.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-4.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+					<li><a href="#">
+						<div class="arr-block">
+							<img src="images/new-1.png" alt="new arrival" />
+							<p>29% off</p>
+						</div>
+						</a>
+						<h2>hanging gray lamp</h2>
+<h3>500 sar<span>699 sar</span></h3>
+						</li>
+				</ul>
+				<!-- End Elastislide Carousel -->
+</div>
+</div>
+
+
+<!-- end package div -->
+
+
+<!-- start blocks div -->
+<div class="container ">
+	<div class="clearfix">
+		<div class="col-md-6">
+			<div class="block mt0">
+				<img class="block-img" src="images/block-5.png" alt="block image">
+				<div class="cover-2">
+					<a class="mt100" href="#">lighting tips</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="block mt0">
+				<img class="block-img" src="images/block-6.png" alt="block image">
+				<div class="cover-2">
+					<a class="mt100" href="#">led definitions</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+<!-- end blocks div -->
+
+<!-- start shipping div -->
+<div class="clearfix shipping">
+	<div class="container">
+		<div class="clearfix">
+			<div class="col-md-4">
+				<img src="images/ship-1.png" alt="guarantee">
+				<h1>MHL Guarantee</h1>
+			</div>
+			<div class="col-md-4">
+				<img src="images/ship-2.png" alt="guarantee">
+				<h1>Free shipping for orders over 500 SAR</h1>
+			</div>
+			<div class="col-md-4">
+				<img src="images/ship-3.png" alt="guarantee">
+				<h1>Exchange Orders</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- end shipping div -->
+
+<!-- start sub div -->
+<div class="clearfix sub">
+	<div class="container">
+		<div class="clearfix hidden-xs hidden-sm">
+			<div class="col-md-5">
+				<h1><span class="lnr lnr-envelope"></span>subscribe to our newsletter</h1>
+			</div>
+			<div class="col-md-7">
+				<input type="text" name="" placeholder="Enter your email address">
+				<a href="#">subscribe</a>
+			</div>
+		</div>
+
+		<div class="clearfix hidden-lg hidden-md">
+			
+				<span class="lnr lnr-envelope"></span>
+				<h1>subscribe to our newsletter</h1>
+				<input type="text" name="" placeholder="Enter your email address">
+				<a href="#">subscribe</a>
+			
+		</div>
+	</div>
+</div>
+
+<!-- end sub div -->
+
+<!-- start footer -->
+<footer>
+	<div class="container">
+		<div class="clearfix">
+			<div class="col-md-4">
+				<a href="#" class="logo-2"><img src="images/logo-2.png" alt="footer logo"></a>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="col-md-2 hidden-xs hidden-sm">
+				<h2>information</h2>
+				<ul class="footer-list">
+					<li><a href="#">about us</a></li>
+					<li><a href="#">delivery information</a></li>
+					<li><a href="#">privacy policy</a></li>
+					<li><a href="#">terms & conditions</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 hidden-xs hidden-sm">
+				<h2>customer service</h2>
+				<ul class="footer-list">
+					<li><a href="#">contact us</a></li>
+					<li><a href="#">returns</a></li>
+					<li><a href="#">site map</a></li>
+					
+				</ul>
+			</div>
+			<div class="col-md-2 hidden-xs hidden-sm">
+				<h2>extras</h2>
+				<ul class="footer-list">
+					<li><a href="#">brands</a></li>
+					<li><a href="#">gift certificates</a></li>
+					<li><a href="#">affiliate</a></li>
+					<li><a href="#">specials</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 hidden-xs hidden-sm">
+				<h2>my account</h2>
+				<ul class="footer-list">
+					<li><a href="#">my account</a></li>
+					<li><a href="#">order history</a></li>
+					<li><a href="#">wishlist</a></li>
+					<li><a href="#">newsletter</a></li>
+				</ul>
+			</div>
+		</div>
+
+<div class="clearfix hidden-lg hidden-md">
+	<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+         <h2>information <i class="fal fa-angle-down"></i></h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+         <ul class="footer-list">
+      <li><a href="#">about us</a></li>
+       <li><a href="#">delivery information</a></li>
+        <li><a href="#">privacy policy</a></li>
+         <li><a href="#">terms & conditions</a></li>
+    </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+         <h2>customer service<i class="fal fa-angle-down"></i></h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+       
+    <ul class="footer-list">
+      <li><a href="#">contact us</a></li>
+       <li><a href="#">returns</a></li>
+        <li><a href="#">site map</a></li>
+        
+    </ul>
+   
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+         <h2>extras<i class="fal fa-angle-down"></i></h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+        
+     <ul class="footer-list">
+      <li><a href="#">brands</a></li>
+       <li><a href="#">gift certificates</a></li>
+        <li><a href="#">affiliate</a></li>
+         <li><a href="#">specials</a></li>
+    </ul>
+  
+      </div>
+    </div>
+
+
+
+  </div>
+
+
+
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h2>my account<i class="fal fa-angle-down"></i></h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+        
+     <ul class="footer-list">
+      <li><a href="#">my account</a></li>
+       <li><a href="#">order history</a></li>
+        <li><a href="#">wish list</a></li>
+         <li><a href="#">newsletter</a></li>
+    </ul>
+  
+      </div>
+    </div>
+
+
+    
+  </div>
+</div>
+</div>
+
+
+<div class="clearfix">
+	<h3>We are always ready to help you</h3>
+	<h4>You can contact with us via any of the following methods</h4>
+</div>
+<div class="clearfix contact">
+	<div class="col-md-3 p0">
+		<i class="fas fa-exclamation-circle"></i>
+		<div class="cont-2">
+		<h5>location</h5>
+		<p>Almalaz - Riyadh</p>
+	</div>
+</div>
+<div class="col-md-3 p0">
+		<i class="fas fa-envelope"></i>
+		<div class="cont-2">
+		<h5>support via email</h5>
+		<p>info@mhl.com</p>
+	</div>
+</div>
+<div class="col-md-3 p0">
+		<i class="fas fa-phone-alt"></i>
+		<div class="cont-2">
+		<h5>support via phone</h5>
+		<p>920006618</p>
+	</div>
+</div>
+<div class="col-md-3 p0">
+		<i class="fab fa-whatsapp"></i>
+		<div class="cont-2">
+		<h5>message with whatsapp</h5>
+		<p>0542431000</p>
+	</div>
+</div>
+
+
+	</div>
+	<h6 class="hidden-xs hidden-sm">C.R 0000000000  -  T.N 0000000000</h6>
+	<h6 class="hidden-lg hidden-md">C.R 0000000000</h6>
+	<h6 class="hidden-lg hidden-md">T.N 0000000000</h6>
+<div class="clearfix">
+	<ul class="footer-social">
+		<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+		<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+		<li><a href="#"><i class="fab fa-snapchat-ghost"></i></a></li>
+		<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+	</ul>
+</div>
+<div class="clearfix hidden-xs hidden-sm">
+	<ul class="footer-social">
+		<li><a href="#"><img src="images/visa.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/pay.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/pay-2.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/mada.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/aramix.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/sm.png" alt="pay method"></a></li>
+	</ul>
+</div>
+<div class="clearfix hidden-lg hidden-md">
+	<ul class="footer-social ml35">
+		<li><a href="#"><img src="images/visa.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/pay.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/pay-2.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/mada.png" alt="pay method"></a></li>
+		
+	</ul>
+</div>
+
+<div class="clearfix hidden-lg hidden-md">
+	<ul class="footer-social ml85">
+	<li><a href="#"><img src="images/aramix.png" alt="pay method"></a></li>
+		<li><a href="#"><img src="images/sm.png" alt="pay method"></a></li>
+		
+	</ul>
+</div>
+
+<div class="clearfix copy">
+	<div class="col-md-6">
+		<span>© MHL 2020, All rights reserved</span>
+	</div>
+	<div class="col-md-6">
+		<span class="float">Made in <img src="images/footer.png" alt="footer-img"></span>
+	</div>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+<!-- end footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- JS
+============================================ -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+ <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>
+  window.onload = function(){
+    document.getElementById('close').onclick = function(){
+        this.parentNode.parentNode.parentNode
+        .removeChild(this.parentNode.parentNode);
+        return false;
+    };
+};
+</script>
+
+
+<script>
+  $("#searchbar .search-label").on("click", function(e){
+  e.preventDefault();
+  $("#searchbar").toggleClass("collapsed");
+});//click
+</script>
+
+
+
+<script>
+  (function($) { 
+  $(function() { 
+
+    //  open and close nav 
+    $('#navbar-toggle').click(function() {
+      $('nav ul').slideToggle();
+    });
+
+
+    // Hamburger toggle
+    $('#navbar-toggle').on('click', function() {
+      this.classList.toggle('active');
+    });
+
+
+    // If a link has a dropdown, add sub menu toggle.
+    $('nav ul li a:not(:only-child)').click(function(e) {
+      $(this).siblings('.navbar-dropdown').slideToggle("slow");
+
+      // Close dropdown when select another dropdown
+      $('.navbar-dropdown').not($(this).siblings()).hide("slow");
+      e.stopPropagation();
+    });
+
+
+
+
+
+    // Click outside the dropdown will remove the dropdown class
+    $('html').click(function() {
+      $('.navbar-dropdown').hide();
+    });
+  }); 
+})(jQuery); 
+</script>
+
+
+  <script src="js/jssor.slider-28.1.0.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.jssor_1_slider_init = function() {
+
+            var jssor_1_SlideoTransitions = [
+              [{b:500,d:1000,x:0,e:{x:6}}],
+              [{b:-1,d:1,x:100,p:{x:{d:1,dO:9}}},{b:0,d:2000,x:0,e:{x:6},p:{x:{dl:0.1}}}],
+              [{b:-1,d:1,x:200,p:{x:{d:1,dO:9}}},{b:0,d:2000,x:0,e:{x:6},p:{x:{dl:0.1}}}],
+              [{b:-1,d:1,rX:20,rY:90},{b:0,d:4000,rX:0,e:{rX:1}}],
+              [{b:-1,d:1,rY:-20},{b:0,d:4000,rY:-90,e:{rY:7}}],
+              [{b:-1,d:1,sX:2,sY:2},{b:1000,d:3000,sX:1,sY:1,e:{sX:1,sY:1}}],
+              [{b:-1,d:1,sX:2,sY:2},{b:1000,d:5000,sX:1,sY:1,e:{sX:3,sY:3}}],
+              [{b:-1,d:1,tZ:300},{b:0,d:2000,o:1},{b:3500,d:3500,tZ:0,e:{tZ:1}}],
+              [{b:-1,d:1,x:20,p:{x:{o:33,r:0.5}}},{b:0,d:1000,x:0,o:0.5,e:{x:3,o:1},p:{x:{dl:0.05,o:33},o:{dl:0.02,o:68,rd:2}}},{b:1000,d:1000,o:1,e:{o:1},p:{o:{dl:0.05,o:68,rd:2}}}],
+              [{b:-1,d:1,da:[0,700]},{b:0,d:600,da:[700,700],e:{da:1}}],
+              [{b:600,d:1000,o:0.4}],
+              [{b:-1,d:1,da:[0,400]},{b:200,d:600,da:[400,400],e:{da:1}}],
+              [{b:800,d:1000,o:0.4}],
+              [{b:-1,d:1,sX:1.1,sY:1.1},{b:0,d:1600,o:1},{b:1600,d:5000,sX:0.9,sY:0.9,e:{sX:1,sY:1}}],
+              [{b:0,d:1000,o:1,p:{o:{o:4}}}],
+              [{b:1000,d:1000,o:1,p:{o:{o:4}}}]
+            ];
+
+            var jssor_1_options = {
+              $AutoPlay: 1,
+              $CaptionSliderOptions: {
+                $Class: $JssorCaptionSlideo$,
+                $Transitions: jssor_1_SlideoTransitions
+              },
+              $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$
+              },
+              $BulletNavigatorOptions: {
+                $Class: $JssorBulletNavigator$,
+                $SpacingX: 16,
+                $SpacingY: 16
+              }
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*#region responsive code begin*/
+
+            var MAX_WIDTH = 2000;
+
+            function ScaleSlider() {
+                var containerElement = jssor_1_slider.$Elmt.parentNode;
+                var containerWidth = containerElement.clientWidth;
+
+                if (containerWidth) {
+
+                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+
+                    jssor_1_slider.$ScaleWidth(expectedWidth);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+
+            ScaleSlider();
+
+            $Jssor$.$AddEvent(window, "load", ScaleSlider);
+            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+            /*#endregion responsive code end*/
+        };
+    </script>
+
+
+  <script type="text/javascript">jssor_1_slider_init();
+    </script>
+
+
+<script src="js/modernizr.custom.17475.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquerypp.custom.js"></script>
+		<script type="text/javascript" src="js/jquery.elastislide.js"></script>
+		<script type="text/javascript">
+			
+			$( '#carousel' ).elastislide();
+			
+		</script>
+
+
+<script type="text/javascript">
+			
+			$( '#carousel-2' ).elastislide();
+			
+		</script>
+
+
+<script type="text/javascript">
+			
+			$( '#carousel-3' ).elastislide();
+			
+		</script>
+
+
+
+
+
+<script src="js/main.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+
+  <script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+
+	<script src="js/modernizr-3.6.0.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+		
+	
+</body>
+</html>
